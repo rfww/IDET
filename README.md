@@ -6,9 +6,9 @@ It consists of three Transformers, where first two transformers are used to enha
 The core of the model, the *terative Difference-Enhanced Transformers* (IDET) block, 
 makes sure that the network can generate the high-quality difference features.
 
-![IDET framework](docs/model_all_simplified_cropped.svg)
+![IDET framework](img/framework.png#pic_center)
 
-![IDET model architecture](docs/model_all_simplified_cropped.svg)
+![IDET model architecture](img/IDET.png#pic_center)
 
 
 
@@ -44,10 +44,14 @@ We .
 
 
 ```
-@inproceedings{andermatt2020weakly,
-  title={A Weakly Supervised Convolutional Network for Change Segmentation and Classification},
-  author={Andermatt, Philipp and Timofte, Radu},
-  booktitle={Proceedings of the Asian Conference on Computer Vision},
-  year={2020}
+@misc{https://doi.org/10.48550/arxiv.2207.09240,
+  doi = {10.48550/ARXIV.2207.09240},
+  url = {https://arxiv.org/abs/2207.09240},
+  author = {Huang, Rui and Wang, Ruofei and Guo, Qing and Zhang, Yuxiang and Fan, Wei},
+  keywords = {Computer Vision and Pattern Recognition (cs.CV), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  title = {IDET: Iterative Difference-Enhanced Transformers for High-Quality Change Detection},
+  publisher = {arXiv},
+  year = {2022},
+  copyright = {arXiv.org perpetual, non-exclusive license}
 }
 ```
