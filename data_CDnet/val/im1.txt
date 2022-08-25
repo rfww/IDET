@@ -1,0 +1,10 @@
+/home/dl/Desktop/Pytorch_CD/DC_dataset/CDnet2014/dataset/PTZ/continuousPan/img1.jpg
+/home/dl/Desktop/Pytorch_CD/DC_dataset/CDnet2014/dataset/PTZ/continuousPan/img1.jpg
+/home/dl/Desktop/Pytorch_CD/DC_dataset/CDnet2014/dataset/PTZ/continuousPan/img1.jpg
+/home/dl/Desktop/Pytorch_CD/DC_dataset/CDnet2014/dataset/PTZ/continuousPan/img1.jpg
+/home/dl/Desktop/Pytorch_CD/DC_dataset/CDnet2014/dataset/PTZ/continuousPan/img1.jpg
+/home/dl/Desktop/Pytorch_CD/DC_dataset/CDnet2014/dataset/PTZ/continuousPan/img1.jpg
+/home/dl/Desktop/Pytorch_CD/DC_dataset/CDnet2014/dataset/PTZ/continuousPan/img1.jpg
+/home/dl/Desktop/Pytorch_CD/DC_dataset/CDnet2014/dataset/PTZ/continuousPan/img1.jpg
+/home/dl/Desktop/Pytorch_CD/DC_dataset/CDnet2014/dataset/PTZ/continuousPan/img1.jpg
+/home/dl/Desktop/Pytorch_CD/DC_dataset/CDnet2014/dataset/PTZ/continuousPan/img1.jpg

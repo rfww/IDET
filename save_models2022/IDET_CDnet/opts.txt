@@ -1,0 +1,1 @@
+Namespace(batch_size=2, cuda=True, datadir='./data_CDnet/', epoch_save=10, iouTrain=False, local_rank=-1, lr=0.001, model='idet', num_classes=2, num_epochs=20, num_workers=2, pretrained='', savedir='./save_models2022/IDET_CDnet/', state=None, steps_loss=100)
