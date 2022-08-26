@@ -69,6 +69,10 @@ We conduct various experiments on six widely used change detection datasets, whi
 We all use the binary change maps to supervise the training of IDET. 
 
 ---
+# Acknowledgments
+
+Parts of the code were based on [Segformer](https://github.com/NVlabs/SegFormer). Thanks for their excellent work!
+
 ## Cite
 
 
