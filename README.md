@@ -55,14 +55,14 @@ We conduct various experiments on six widely used change detection datasets, whi
 ```
 
 ## Street views datasets:
-- VL-CMU-CD: A street-view change detection dataset.
-- PCD:  Tsunami destroyed views (Tsunami) and Google Street Views (GSV). 
-- CDnet2014: Frame-based change detection benchmark dataset.
+- [VL-CMU-CD: A street-view change detection dataset.](https://link.springer.com/article/10.1007/s10514-018-9734-5)
+- [PCD:  Tsunami destroyed views (Tsunami) and Google Street Views (GSV) dataset.](http://www.vision.is.tohoku.ac.jp/files/9814/3947/4830/71-Sakurada-BMVC15.pdf) 
+- [CDnet2014: Frame-based change detection benchmark dataset.](http://changedetection.net/)
 
 ## Remote sensing datasets:
-- LEVIR-CD: Buildings change detection dataset.
-- CDD:  Complex scenes aerial and satellite imagery change detection dataset. 
-- AICD: Aerial image change detection dataset.
+- [LEVIR-CD: Buildings change detection dataset.](https://www.mdpi.com/2072-4292/12/10/1662)
+- [CDD:  Aerial and Satellite imagery change detection dataset.](https://ieeexplore.ieee.org/document/8444434) 
+- [AICD: Aerial image change detection dataset.](https://hal.archives-ouvertes.fr/hal-00667237/document)
 
 ## Labels
 
