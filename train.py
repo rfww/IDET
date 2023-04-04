@@ -38,6 +38,12 @@ def get_loader(args):
 
     return loader
 
+def print_model(model):  # compute the number of parameters
+    num_params = 0
+    for param in model.parameters():
+        num_params += param.numel()
+    print("Total number of parameters: {}M".format(num_params/1048576))
+    return
 
 def train(args, model):
     NUM_CLASSES = args.num_classes  # pascal=21, cityscapes=20
@@ -163,8 +169,8 @@ def main(args):
     model.dec3 = nn.Sequential(*decoders[14:24])
     model.dec4 = nn.Sequential(*decoders[24:34])
     model.dec5 = nn.Sequential(*decoders[34:44])
-    #checkpoint = torch.load(args.pretrained)
-    #model.load_state_dict(checkpoint)
+    
+    print_model(model)  # print the number of parameters
 
     for m in model.modules():
         if isinstance(m, nn.Conv2d):
