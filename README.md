@@ -80,7 +80,7 @@ Parts of the code were based on [Segformer](https://github.com/NVlabs/SegFormer)
 @misc{https://doi.org/10.48550/arxiv.2207.09240,
   doi = {10.48550/ARXIV.2207.09240},
   url = {https://arxiv.org/abs/2207.09240},
-  author = {Huang, Rui and Wang, Ruofei and Guo, Qing and Zhang, Yuxiang and Fan, Wei},
+  author = {Guo, Qing and Wang, Ruofei and Huang, Rui and Sun, Shuifa and Zhang, Yuxiang},
   keywords = {Computer Vision and Pattern Recognition (cs.CV), FOS: Computer and information sciences, FOS: Computer and information sciences},
   title = {IDET: Iterative Difference-Enhanced Transformers for High-Quality Change Detection},
   publisher = {arXiv},
