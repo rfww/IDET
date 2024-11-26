@@ -1,6 +1,6 @@
 [![License CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC4.0-blue.svg)](https://raw.githubusercontent.com/nvlabs/SPADE/master/LICENSE.md)
 
-# IDET: Iterative Difference-Enhanced Transformers for High-Quality Change Detection
+# IDET: Iterative Difference-Enhanced Transformers for High-Quality Change Detection (accepted by TETCI)
 This repo presents [IDET](https://arxiv.org/pdf/2207.09240), an iterative Difference-Enhanced Transformer block for change detection. 
 It consists of three Transformers, where the first two transformers are used to enhance the reference and query features and the last to strengthen the difference features between them. 
 The core of the model, the *iterative Difference-Enhanced Transformers* (IDET) block, 
